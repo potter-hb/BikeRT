@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">骑行守门员</string>
+    <string name="tile_label">50分钟骑行</string>
+    <string name="accessibility_service_label">骑行自动关锁</string>
+    <string name="accessibility_service_description">读取美团骑行订单页面，并在骑行计时结束时点击关锁。</string>
+</resources>

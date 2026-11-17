@@ -1,0 +1,35 @@
+# Android and Gradle
+.gradle/
+build/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated packages
+dist/
+*.apk
+*.aab
+*.ap_
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Signing and secrets
+*.jks
+*.keystore
+.env
+secrets.properties
+
+# Local device and SDK tools
+tools/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
